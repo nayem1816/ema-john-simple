@@ -12,8 +12,8 @@
     color: blue;
     font-weight: 400;
 }
-.product-title button{
-    width: 200px;
+.btnStyle{
+    width: 150px;
     padding: 5px;
     background-color: #EAC249;
     border: 1px solid gray;
